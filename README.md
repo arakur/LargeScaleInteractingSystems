@@ -7,18 +7,26 @@ This project is quite under construction and mainly for our own research.
 Current status:
 
 - [x] Calculation of the space $\mathrm{Consv}^\phi(S)$ of the conserved quantities
-- [ ] Combinatorics of interactions and quantities; enumeration and counting of the interactions for a small state space
+- [ ] Combinatorics of interactions and quantities; enumeration and counting interactions for a small state space
 - [ ] Other stuffs
 
-## Setting
+## Contents
+
+### 1. ConservedQuantities: Calculation a basis of the space $\mathrm{Consv}^\phi(S)$ of the conserved quantities
+
+#### Setting
 
 1. Install [Julia](https://julialang.org/downloads/) (≥ v1.7.2).
 2. Install [Jupyter Notebook](https://jupyter.org/install).
 3. `git clone` this repository.
 
-## Usage
+#### Usage
 
 See the Julia notebook `src/ConservedQuantities/ConservedQuantities.ipynb`.
+
+### 2. InteractionsEnumeration: Enumeration and counting all interactions
+
+Working in progress.
 
 ## References
 
