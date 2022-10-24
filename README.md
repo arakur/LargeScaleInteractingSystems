@@ -15,11 +15,10 @@ Current status:
 1. Install [Julia](https://julialang.org/downloads/) (≥ v1.7.2).
 2. Install [Jupyter Notebook](https://jupyter.org/install).
 3. `git clone` this repository.
-4. Run the script `RequiredPackages.jl` in this repository.
 
 ## Usage
 
-See the Julia Notebook `src/ConservedQuantities/ipynb`.
+See the Julia notebook `src/ConservedQuantities/ConservedQuantities.ipynb`.
 
 ## References
 
