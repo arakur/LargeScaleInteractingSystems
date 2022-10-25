@@ -1,4 +1,4 @@
-# Some Implementations for the Large Scale Interacting Systems
+# Some Implementations for the Large Scale Interacting Systems (for research)
 
 Scripts and modules for the research of the large scale interacting systems with Julia[Julia].
 It totally refers to [BKS].
