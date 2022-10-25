@@ -12,24 +12,22 @@ Current status:
   - [ ] counting
 - [ ] Other stuffs
 
-## Contents
-
-### 1. ConservedQuantities: Calculation a basis of the space $\mathrm{Consv}^\phi(S)$ of the conserved quantities
-
-#### Setting
+## Setting
 
 1. Install [Julia](https://julialang.org/downloads/) (≥ v1.7.2).
 2. Install [Jupyter Notebook](https://jupyter.org/install).
 3. `git clone "https://github.com/arakur/LargeScaleInteractingSystems"`.
 4. Open Jupyter Notebook files `ConservedQuantities.ipynb` and `InteractionsEnumeration.ipynb`.
 
-#### Usage
+## Contents
 
-See the Julia notebook `src/ConservedQuantities/ConservedQuantities.ipynb`.
+### 1. ConservedQuantities: Calculation a basis of the space $\mathrm{Consv}^\phi(S)$ of the conserved quantities
+
+See the Julia notebook `src/ConservedQuantities.ipynb`.
 
 ### 2. InteractionsEnumeration: Enumeration and counting all interactions
 
-Working in progress.
+See the Julia notebook `src/InteractionsEnumeration.ipynb`.
 
 ## References
 
