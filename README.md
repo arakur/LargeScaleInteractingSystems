@@ -7,7 +7,9 @@ This project is quite under construction and mainly for our own research.
 Current status:
 
 - [x] Calculation of the space $\mathrm{Consv}^\phi(S)$ of the conserved quantities
-- [ ] Combinatorics of interactions and quantities; enumeration and counting interactions for a small state space
+- [ ] Combinatorics of interactions and quantities;
+  - [x] enumerating and
+  - [ ] counting
 - [ ] Other stuffs
 
 ## Contents

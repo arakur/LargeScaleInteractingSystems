@@ -10,8 +10,8 @@ include("./Interactions/Interactions.jl")
 include("./ConservedQuantities/Init.jl")
 include("./ConservedQuantities/ConservedQuantities.jl")
 
-import ..ConservedQuantities
+include("./InteractionsEnumeration/InteractionsEnumeration.jl")
 
-export States
+export States, foo
 
 end # module LargeScaleInteractingSystems

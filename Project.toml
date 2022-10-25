@@ -4,7 +4,9 @@ authors = ["arakur <69429720+arakur@users.noreply.github.com>"]
 version = "0.1.0"
 
 [deps]
+ConstraintSolver = "e0e52ebd-5523-408d-9ca3-7641f1cd1405"
 Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
 LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
 Nemo = "2edaba10-b0f1-5616-af89-8c11ac63239a"
 Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
