@@ -10,14 +10,16 @@ Current status:
 - [ ] Combinatorics of interactions and quantities;
   - [x] enumerating and
   - [ ] counting
+- [ ] Computing period matrices
 - [ ] Other stuffs
 
 ## Setting
 
 1. Install [Julia](https://julialang.org/downloads/) (≥ v1.7.2).
 2. Install [Jupyter Notebook](https://jupyter.org/install).
-3. `git clone "https://github.com/arakur/LargeScaleInteractingSystems"`.
-4. Open Jupyter Notebook files `ConservedQuantities.ipynb` and `InteractionsEnumeration.ipynb`.
+3. Set up Julia kernel for Jupyter Notebook.
+4. `git clone "https://github.com/arakur/LargeScaleInteractingSystems"`.
+5. Open Jupyter Notebook files `ConservedQuantities.ipynb` and `InteractionsEnumeration.ipynb`.
 
 ## Contents
 

@@ -4,15 +4,13 @@ import Base.range
 
 struct StateSet
     size  :: Int
-
-    StateSet(size) = new(size)
 end
 
 function non_base_size(state_set :: StateSet)
     return state_set.size - 1
 end
 
-function val_range(state_set :: StateSet) 
+function val_range(state_set :: StateSet)
     0:state_set.size-1
 end
 

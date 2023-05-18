@@ -5,7 +5,7 @@ module Interactions_Init
     struct Interaction
         state_set :: StateSet
         map # :: Int × Int → Int × Int
-            # as State × State → State × State
+            # (as State × State → State × State)
 
         Interaction(state_set, map) = new(state_set, map)
     end
